@@ -19,6 +19,8 @@
 
 ## Phone-Hazy Dataset
 
+<img src = "figs/phone-hazy.png" width='970' height='300'>
+
 ## Citation
 If you are interested in this work, please consider citing:
 
