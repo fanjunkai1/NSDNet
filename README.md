@@ -23,7 +23,7 @@ Overall pipeline of our non-aligned supervision framework with physical priors f
 
 <img src = "figs/phone-hazy.png" width='970' height='300'>
 
-We have a total of 415 non-aligned image pairs in our phone-hazy dataset, mainly consisting of four different scenes: buildings, urban roads, cement roads, and outdoor wilderness. The visibility in these scenes varies with haze density, primarily ranging from 0-50 meters.
+Our phone-hazy dataset consists of a total of 415 non-aligned image pairs, primarily covering four different scenes: buildings, urban highways, cement roads, and outdoor landscapes. The haze density mainly ranges from 0 to 50 meters of visibility.
 
 ## Our Environment
 - Ubuntu 18.04
