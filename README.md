@@ -19,3 +19,19 @@
 
 ## Phone-Hazy Dataset
 
+## Citation
+If you are interested in this work, please consider citing:
+
+    @article{fan2023non,
+      title={Non-aligned supervision for Real Image Dehazing},
+      author={Fan, Junkai and Guo, Fei and Qian, Jianjun and Li, 
+          Xiang and Li, Jun and Yang, Jian},
+      journal={arXiv preprint arXiv:2303.04940},
+      year={2023}
+    }
+
+## Acknowledgment
+This code is based on the [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix). Thanks for their awesome work.
+
+## Contact
+Should you have any question or suggestion, please contact junkai.fan@njust.edu.cn.
