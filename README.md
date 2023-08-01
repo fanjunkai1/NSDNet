@@ -31,7 +31,7 @@ If you are interested in this work, please consider citing:
     }
 
 ## Acknowledgment
-This code is based on the [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix). Thanks for their awesome work.
+This code is based on the [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix). Thank them for their outstanding work.
 
 ## Contact
 Should you have any question or suggestion, please contact junkai.fan@njust.edu.cn.
