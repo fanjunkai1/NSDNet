@@ -13,6 +13,8 @@
 
 <img src = "figs/framework.png">
 
+Overall pipeline of our non-aligned supervision framework with physical priors for the real image dehazing. It includes the mvSA and non-aligned supervision modules. mvSA can effectively estimate the infinite airlight A∞ in real scenes. Our framework is different from the supervised dehazing models as it does not require aligned ground truths.
+
 ## Video Demo
 
 <img src = "figs/demo.gif">
