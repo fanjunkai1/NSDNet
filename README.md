@@ -12,3 +12,7 @@
 ## Network Architecture
 
 <img src = "figs/framework.png">
+
+## Video Demo
+
+<img src = "figs/demo.gif">
