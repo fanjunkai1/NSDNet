@@ -28,7 +28,7 @@ Our phone-hazy dataset contains 415 non-aligned image pairs with four primary sc
 ## Our Environment
 - Ubuntu 18.04
 - Python == 3.9
-- PyTorch == 1.11 with CUDA 11.2
+- PyTorch == 1.11 with CUDA 11.3
 - torchvision ==0.12.0
 - numpy == 1.22.3)
 
