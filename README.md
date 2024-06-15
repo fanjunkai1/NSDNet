@@ -1,4 +1,4 @@
-# Non-aligned Supervision for Real Image Dehazing
+# NSDNet: Non-aligned Supervision for Real Image Dehazing
 
 [Junkai Fan](https://fanjunkai1.github.io/), Fei Guo, Jianjun Qian, [Xiang Li](http://implus.github.io/), [Jun li](https://sites.google.com/view/junlineu/) and Jian Yang
 
@@ -11,17 +11,17 @@
 
 ## Network Architecture
 
-<img src = "figs/framework.png">
+<img src = "figs/framework.png" width='800' height='400'>
 
 Overall pipeline of our non-aligned supervision framework with physical priors for the real-world image dehazing. It includes the mvSA and non-aligned supervision modules. mvSA can effectively estimate the infinite airlight A∞ in real scenes. Our framework is different from the supervised dehazing models as it does not require aligned ground truths.
 
 ## Video Demo (real-world hazy video)
 
-<img src = "figs/demo.gif">
+<img src = "figs/demo.gif" width='800' height='300'>
 
 ## Phone-Hazy Dataset
 
-<img src = "figs/phone-hazy.png" width='970' height='300'>
+<img src = "figs/phone-hazy.png" width='800' height='300'>
 
 Our phone-hazy dataset contains 415 non-aligned image pairs with four primary scenes: buildings, urban highways, rural cement roads, and outdoor landscapes. The haze levels mainly vary within a visibility range of 0 to 50 meters.
 
