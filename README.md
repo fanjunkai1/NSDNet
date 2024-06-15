@@ -3,7 +3,7 @@
 [Junkai Fan](https://fanjunkai1.github.io/), Fei Guo, Jianjun Qian, [Xiang Li](http://implus.github.io/), [Jun li](https://sites.google.com/view/junlineu/) and Jian Yang
 
 [![Paper](https://img.shields.io/badge/arXiv-PDF-b31b1b)](https://arxiv.org/pdf/2303.04940v4.pdf)
-[![Website](doc/badges/badge-website.svg)](https://fanjunkai1.github.io/projectpage/NSDNet/index.html)
+[![Website](figs/badge-website.svg)](https://fanjunkai1.github.io/projectpage/NSDNet/index.html)
 
 ## Video Demo (real-world hazy video)
 
