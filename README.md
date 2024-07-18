@@ -57,10 +57,18 @@ If you are interested in this work, please consider citing:
   journal={arXiv preprint arXiv:2303.04940},
   year={2023}
 }
+
+@inproceedings{fan2024driving,
+  title={Driving-Video Dehazing with Non-Aligned Regularization for Safety Assistance},
+  author={Fan, Junkai and Weng, Jiangwei and Wang, Kun and Yang, Yijun and Qian, Jianjun and Li, Jun and Yang, Jian},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={26109--26119},
+  year={2024}
+}
 ```
 
 ## Acknowledgment
 This code is based on the [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix). Thank them for their outstanding work.
 
 ## Contact
-Should you have any question or suggestion, please contact junkai.fan@njust.edu.cn.
+If you have any question or suggestion, please contact junkai.fan@njust.edu.cn.
