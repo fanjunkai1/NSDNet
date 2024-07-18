@@ -9,12 +9,12 @@ PCA Lab, Nanjing University of Science and Technology;
 
 ## Video Demo (real-world hazy video)
 
-<img src = "figs/demo.gif" width='800' height='300'>
+<img src = "figs/demo.gif" width='600' height='200'>
 
 
 ## Network Architecture
 
-<img src = "figs/framework.png" width='800' height='400'>
+<img src = "figs/framework.png" width='600' height='300'>
 
 Overall pipeline of our non-aligned supervision framework with physical priors for the real-world image dehazing. It includes the mvSA and non-aligned supervision modules. mvSA can effectively estimate the infinite airlight A∞ in real scenes. 
 Our framework is different from the supervised dehazing models as it does not require aligned ground truths.
@@ -23,21 +23,21 @@ Our framework is different from the supervised dehazing models as it does not re
 
 ## Phone-Hazy Dataset
 
-<img src = "figs/phone-hazy.png" width='800' height='300'>
+<img src = "figs/phone-hazy.png" width='600' height='200'>
 
 Our phone-hazy dataset contains 415 non-aligned image pairs with four primary scenes: buildings, urban highways, rural cement roads, and outdoor landscapes. The haze levels mainly vary within a visibility range of 0 to 50 meters.
 
 ## Results on Smoke Dataset
 
-<img src = "figs/smoke_results.png" width='800' height='300'>
+<img src = "figs/smoke_results.png" width='600' height='200'>
 
 ## Results on Phone-Hazy Dataset
 
-<img src = "figs/phone-hazy_results.png" width='800' height='300'>
+<img src = "figs/phone-hazy_results.png" width='600' height='200'>
 
 ## Results on RTTS Dataset
 
-<img src = "figs/RTTS_results.png" width='800' height='300'>
+<img src = "figs/RTTS_results.png" width='600' height='200'>
 
 
 ## 🛠️ Setup
