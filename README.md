@@ -1,6 +1,8 @@
 # NSDNet: Non-aligned Supervision for Real Image Dehazing
 
-[Junkai Fan](https://fanjunkai1.github.io/), Fei Guo, Jianjun Qian, [Xiang Li](http://implus.github.io/), [Jun li](https://sites.google.com/view/junlineu/) and Jian Yang
+[Junkai Fan](https://fanjunkai1.github.io/), [Xiang Li](http://implus.github.io/), Jianjun Qian, [Jun li<sup>*</sup>](https://sites.google.com/view/junlineu/) and Jian Yang<sup>*</sup> <br>
+(* indicates the corresponding author)<br>
+PCA Lab, Nanjing University of Science and Technology;
 
 [![Paper](https://img.shields.io/badge/arXiv-PDF-b31b1b)](https://arxiv.org/pdf/2303.04940v4.pdf)
 [![Website](figs/badge-website.svg)](https://fanjunkai1.github.io/projectpage/NSDNet/index.html)
