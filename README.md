@@ -7,6 +7,10 @@ PCA Lab, Nanjing University of Science and Technology;
 [![Paper](https://img.shields.io/badge/arXiv-PDF-b31b1b)](https://arxiv.org/pdf/2303.04940v4.pdf)
 [![Website](figs/badge-website.svg)](https://fanjunkai1.github.io/projectpage/NSDNet/index.html)
 
+## :fire: Updates
+- [18-08-2024] We released PhoneHazy dataset (real-world hazy scenarios)
+
+
 ## Video Demo (real-world hazy video)
 
 <img src = "figs/demo.gif" width='700' height='250'>
