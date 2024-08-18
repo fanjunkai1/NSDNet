@@ -31,6 +31,8 @@ Our framework is different from the supervised dehazing models as it does not re
 
 Our phone-hazy dataset contains 415 non-aligned image pairs with four primary scenes: buildings, urban highways, rural cement roads, and outdoor landscapes. The haze levels mainly vary within a visibility range of 0 to 50 meters.
 
+PhoneHazy dataset can be downloaded [here](https://pan.baidu.com/s/1_rtValqX4JkNZ5_fd22NFg) (quf8)
+
 ## Results on Smoke Dataset
 
 <img src = "figs/smoke_results.png" width='700' height='250'>
