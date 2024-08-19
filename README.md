@@ -8,7 +8,7 @@ PCA Lab, Nanjing University of Science and Technology;
 [![Website](figs/badge-website.svg)](https://fanjunkai1.github.io/projectpage/NSDNet/index.html)
 
 ## :fire: Updates
-- [18-08-2024] We released PhoneHazy dataset (real-world hazy scenarios)
+- [18-08-2024] We have released the PhoneHazy dataset (real-world hazy scenarios).
 
 
 ## Video Demo (real-world hazy video)
